@@ -1,0 +1,9 @@
+Question: What is the % of traffic that is pickups? AKA what is %VMT for pickup trucks?
+
+FHWA  VM-1  VMT by class(LDV SWB, LDV LWB, etc), by road class, by year
+FHWA  VM-1  VMT/vehicle by class(LDV SWB, LDV LWB, etc), by road class, by year
+TEDB  3-07  Share of Highway VMT by Vehicle Type  by year
+TEDB  A.19  Estimated car VMT
+TEDB  A.20  Estimated 2-axle, 4-tire Truck VMT
+AFDC
+BTS State Transpo Stats 5-3 Highway VMT by state, by year
